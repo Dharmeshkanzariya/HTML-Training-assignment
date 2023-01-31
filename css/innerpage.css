@@ -1,0 +1,24 @@
+.fistRorw{
+    padding: 10px;
+
+}
+.secondRow {
+    
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.left{
+    margin-right: 20px;
+}
+
+.input[type=file]::file-selector-button {
+
+    margin-right: 20px;
+    border: none;
+    background: #eb3333;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: #fff;
+    cursor: pointer;
+    transition: background .2s ease-in-out;
+    }
